@@ -35,6 +35,22 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="329" height="541" alt="Screenshot 2026-05-22 110938" src="https://github.com/user-attachments/assets/f578e4a2-0efa-4139-bf92-96ae53a10297" />
+<img width="968" height="545" alt="Screenshot 2026-05-22 111007" src="https://github.com/user-attachments/assets/2541ceec-2d37-4f9a-90ab-b4269bac7ffe" />
+<img width="1125" height="667" alt="Screenshot 2026-05-22 222425" src="https://github.com/user-attachments/assets/672002d6-e3ef-4da9-ad7b-544d4fe9f6ae" />
+<img width="1268" height="773" alt="Screenshot 2026-05-22 222407" src="https://github.com/user-attachments/assets/4b611e27-4d43-498f-a893-8e8028621e48" />
+<img width="762" height="497" alt="Screenshot 2026-05-22 222337" src="https://github.com/user-attachments/assets/fba0dd2d-d1aa-4e1d-bdfb-1d78fb11a975" />
+<img width="752" height="503" alt="Screenshot 2026-05-22 222328" src="https://github.com/user-attachments/assets/4982dbe6-5f0b-4aae-a0e9-9be14393926b" />
+<img width="819" height="506" alt="Screenshot 2026-05-22 222318" src="https://github.com/user-attachments/assets/3b7f0715-d8c1-4129-8767-c836cbaafab9" />
+<img width="775" height="521" alt="Screenshot 2026-05-22 111626" src="https://github.com/user-attachments/assets/a3990763-8052-43c7-a25a-a229abe955ae" />
+<img width="1002" height="553" alt="Screenshot 2026-05-22 222441" src="https://github.com/user-attachments/assets/19af5b2f-1820-469b-98c5-a4b4663903d5" />
+<img width="999" height="549" alt="Screenshot 2026-05-22 222452" src="https://github.com/user-attachments/assets/55e20b03-f78b-4433-afb9-ca0c9792cf9b" />
+<img width="933" height="739" alt="Screenshot 2026-05-22 222545" src="https://github.com/user-attachments/assets/80a79278-d350-4ed6-89e1-2fad44b77df9" />
+<img width="1248" height="541" alt="Screenshot 2026-05-22 222522" src="https://github.com/user-attachments/assets/580acf73-f4ae-4710-b4d9-d163b214b445" />
+<img width="1039" height="567" alt="Screenshot 2026-05-22 222504" src="https://github.com/user-attachments/assets/6edcabe7-9c86-4537-8fed-7b2c5c7737f8" />
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Output fetched successfully.
